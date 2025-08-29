@@ -34,3 +34,9 @@ Toothless has a lot of nicknames:
 - Toodelus Boppenheimer
 - Little Void
 - Baby Man
+
+
+
+1. I don’t know a good way to work in a numbered list
+2. So I’m throwing it down here
+3. Hahaha
