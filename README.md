@@ -5,8 +5,13 @@ Docs as code practice #2
 
 We have 2 cats, and they are both over 10 years old.
 
+We think both cats are [American shorthairs](https://en.wikipedia.org/wiki/American_Shorthair) but we haven't tried to DNA test or check.
+
+[Here is more information](https://www.purina.com/cats/cat-breeds/american-shorthair) about American shorthair cats.
+
+
 ### Pez
-Pez has a lot of names:
+Pez has a lot of nicknames:
 - Pez
 - Pezzles
 - Sir Pezzington
@@ -16,11 +21,10 @@ Pez has a lot of names:
 - Little Man
 
 ### Toothless
-Toothless has a lot of names:
+Toothless has a lot of nicknames:
 - Toothless
-- Toothels
 - Toodles
 - Toodle-bop
 - Toodelus Boppenheimer
 - Little Void
-- Baby man
+- Baby Man
