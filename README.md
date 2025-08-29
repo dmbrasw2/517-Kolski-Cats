@@ -11,6 +11,9 @@ We think both cats are [American shorthairs](https://en.wikipedia.org/wiki/Ameri
 
 
 ### Pez
+
+![Pez](images/Pez.jpg)
+
 Pez has a lot of nicknames:
 - Pez
 - Pezzles
@@ -21,6 +24,9 @@ Pez has a lot of nicknames:
 - Little Man
 
 ### Toothless
+
+![Toothless](images/Toothless.jpg)
+
 Toothless has a lot of nicknames:
 - Toothless
 - Toodles
